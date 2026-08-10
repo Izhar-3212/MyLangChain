@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-openai
+langchain-anthropic
+langchain-ollama
+langchain-community
+duckduckgo-search
+python-dotenv
+markdown
